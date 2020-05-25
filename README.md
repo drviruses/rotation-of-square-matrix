@@ -20,4 +20,4 @@ Condition Required:
   
     You will be asked wether to roatate the Matrix in clockwise or in Anti-Clockwise direction
     
-    This code does not do alter the Matrix , it just print the pattern.
+    This code does not do alter the Matrix , it just prints the pattern.
