@@ -1,10 +1,10 @@
 # rotation-of-square-matrix
-Rotation of square matrix 
+Rotation of Square Matrix 
 
-Condition Required:
-  Square Matrix
-  Angle must be multiple of 90
-  Clockwise Rotation
+    Condition Required:
+      Square Matrix
+      Angle must be multiple of 90
+      Clockwise Rotation
   
   
     You will be asked wether to roatate the Matrix in clockwise or in Anti-Clockwise direction
